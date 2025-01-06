@@ -1,16 +1,11 @@
-## Hi there 👋
+Following are the links that we will refer in the training 
 
-<!--
-**koushikmandalika2411/koushikmandalika2411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| __  | Link | Comments |
+| ------------- | ------------- | ------------- |
+| Killercoda | https://killercoda.com/rkalluru |  |
+| Miro Link | https://miro.com/app/board/uXjVLA8sfOI=/?share_link_id=95240688791 | |
+| Azure Account Signup Video | https://youtu.be/UsFw4lKb5zU |  |
+| Azure Account Signup Link  | https://portal.azure.com/ |  |
+| Azure Login Page  | https://portal.azure.com/ |  |
+| Putty Download Link | https://the.earth.li/~sgtatham/putty/latest/w64/putty.exe | |
+| Create Azure VMs for Project | https://github.com/raghudevopsb82/.github/blob/main/create-vm-for-project.md ||
